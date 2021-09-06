@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PFMS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PFMS/dist/PFMS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
