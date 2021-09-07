@@ -16,3 +16,4 @@ the income and expenses information provided by the user, users can also keep a 
 record of their income and expenses, For example, if the user is running low on money at
 the end of a month, buying food is more important, or of higher priority, than buying
 clothes or going to the movies.
+![alt text](https://github.com/oyen-bright/PFMS/blob/main/ScreenShots/sc1.png?raw=true)
